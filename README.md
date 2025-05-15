@@ -48,6 +48,10 @@ The analysis involves:
 4. Computing global force-displacement equations
 5. Solving using symbolic math (`SymPy`)
 
+## 📐 Frame Used
+![Frame Structure Demo](frame_structure_demo.png)
+
+
 ## 📊 Comparison
 
 The results have been cross-verified with **STAAD Pro** outputs for validation.
