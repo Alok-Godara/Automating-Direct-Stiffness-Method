@@ -76,7 +76,7 @@ member_id,node1,node2,A,E,I,loads
 - Full theoretical derivation: `ASA_Project_Report.pdf`[4]  
 - Course guidelines: `CIL3060-Lab-Project.pdf`[1]  
 
-**Authors**: Abhimanyu Bansal (B22CI001), Alok Godara (B22CI004)  
-**License**: Academic use for CIL3060 course[1].  
+**Author**: Alok Godara
+**License**: Academic use for Core course.  
 
   
