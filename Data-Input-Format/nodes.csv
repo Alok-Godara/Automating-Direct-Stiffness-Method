@@ -1,0 +1,4 @@
+node_id,support_type,x,y,external_H,external_V,external_M,settlement_u,settlement_v,settlement_theta
+1,fixed,0,0,0,0,0,0,0,0
+2,free,8,5,0,0,0,0,0,0
+3,fixed,12,5,0,0,0,0,0,0

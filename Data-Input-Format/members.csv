@@ -1,0 +1,3 @@
+member_id,node1,node2,A,E,I,loads
+1,1,2,0.01,2.05E+11,8.33E-06,"uniform_distributed_load;-30000;0,0"
+2,2,3,0.01,2.05E+11,8.33E-06,"uniform_distributed_load;-30000;0,0"
